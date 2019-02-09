@@ -25,7 +25,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "/Users/ronen/Desktop/ngplumb/node_modules/jsplumb/dist/js/jsplumb.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -81,7 +83,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "/Users/ronen/Desktop/ngplumb/node_modules/jsplumb/dist/js/jsplumb.min.js"
+            ],
             "assets": [
               "src/favicon.ico",
               "src/assets"
